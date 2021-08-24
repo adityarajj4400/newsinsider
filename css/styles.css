@@ -54,7 +54,6 @@ p{
 /* Title image */
 .title-image{
   width: 60%;
-  transform: rotate(25deg);
 }
 /* feature section */
 #features{
